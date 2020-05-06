@@ -28,6 +28,7 @@
             4.步骤3中生成的视频是没有bgm的，采用VideoFileClip给视频加上bgm
 
 ## How to Run
+* 新建一个video文件夹
 * 将自己的视频放到video文件夹中
 * 更改main函数中258行的目标视频文件的名字
 * 然后允许main函数即可。
