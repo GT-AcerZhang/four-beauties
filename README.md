@@ -17,6 +17,8 @@
 
 [github地址]()
 
+[csdn博客地址](https://blog.csdn.net/yinyiyu/article/details/105962663)
+
 ## 使用到的模型：
 模型1[pyramidbox_lite_mobile](https://www.paddlepaddle.org.cn/hubdetail?name=pyramidbox_lite_mobile&en_category=ObjectDetection)
 
